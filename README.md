@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**regoeee0055/regoeee0055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 สวัสดี, ผม Nanthawat Roipia
 
-Here are some ideas to get you started:
+### Full Stack Developer · Thailand 🇹🇭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;CSS+%26+HTML+Enjoyer;Building+hospital+systems...;คนอ่านเป็นเกย์+%F0%9F%98%82)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🏠 อยู่ที่ **Thailand**
+- 🎓 นักศึกษา **RMUTI** (nanthawat.ro@rmuti.ac.th)
+- 🔭 กำลังทำ **Hospital System Projects**
+- 💻 ชอบเขียน **Python, CSS, HTML**
+- ⭐ มี **GitHub Pro**
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=regoeee0055&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=regoeee0055&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=regoeee0055&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [hospital-reborn](https://github.com/regoeee0055/hospital-reborn) | ไม่บอกหลอกเอ็น ไม่เป็นหรอกมึ | HTML |
+| [hospital-Alpha](https://github.com/regoeee0055/hospital-Alpha) | คนอ่านเป็นเกย์ | CSS |
+| [hospital-Alpha-1](https://github.com/regoeee0055/hospital-Alpha-1) | ดาบวางนิ่ง มีใจเพื่อสังหาร | Python |
+| [swe-lab2](https://github.com/regoeee0055/swe-lab2) | - | Python |
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=regoeee0055&color=58a6ff&style=flat-square)
+
+**"ไม่บอกหลอก"** 😄
+
+</div>

@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · Thailand 🇹🇭
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;CSS+%26+HTML+Enjoyer;Building+hospital+systems...;คนอ่านเป็นเกย์+%F0%9F%98%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;CSS+%26+HTML+Enjoyer;Building+hospital+systems...;ยินดีต้อนรับ+%F0%9F%98%82)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🏠 อยู่ที่ **Thailand**
 - 🎓 นักศึกษา **RMUTI** (nanthawat.ro@rmuti.ac.th)
 - 🔭 กำลังทำ **Hospital System Projects**
-- 💻 ชอบเขียน **Python, CSS, HTML**
+- 💻 ชอบเขียน **Python, CSS, HTML, JAVA, React, Node.js, Django, MySQL**
 - ⭐ มี **GitHub Pro**
 
 ---

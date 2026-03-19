@@ -15,7 +15,8 @@
 - 🏠 อยู่ที่ **Thailand**
 - 🎓 นักศึกษา **RMUTI** (nanthawat.ro@rmuti.ac.th)
 - 🔭 กำลังทำ **Hospital System Projects**
-- 💻 ชอบเขียน **Python, CSS, HTML, JAVA, React, Node.js, Django, MySQL**
+- 💻 ชอบเขียน **Python, CSS, HTML, JAVA, React, Node.js**
+- 💻 Database **MySQL, Django, PostgreSQL**
 - ⭐ มี **GitHub Pro**
 
 ---

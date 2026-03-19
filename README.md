@@ -47,9 +47,9 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [hospital-reborn](https://github.com/regoeee0055/hospital-reborn) | ไม่บอกหลอกเอ็น ไม่เป็นหรอกมึ | HTML |
-| [hospital-Alpha](https://github.com/regoeee0055/hospital-Alpha) | คนอ่านเป็นเกย์ | CSS |
-| [hospital-Alpha-1](https://github.com/regoeee0055/hospital-Alpha-1) | ดาบวางนิ่ง มีใจเพื่อสังหาร | Python |
+| [hospital-reborn](https://github.com/regoeee0055/hospital-reborn) | - | HTML |
+| [hospital-Alpha](https://github.com/regoeee0055/hospital-Alpha) | - | CSS |
+| [hospital-Alpha-1](https://github.com/regoeee0055/hospital-Alpha-1) | - | Python |
 | [swe-lab2](https://github.com/regoeee0055/swe-lab2) | - | Python |
 
 ---

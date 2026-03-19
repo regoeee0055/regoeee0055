@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 สวัสดี, ผม Nanthawat Roipia
+# 👋 WELCOME,Nanthawat Roipia
 
 ### Full Stack Developer · Thailand 🇹🇭
 

@@ -2,7 +2,7 @@
 
 # 👋 WELCOME,Nanthawat Roipia
 
-### Full Stack Developer · Thailand 🇹🇭
+### Software Engeenier · Thailand 🇹🇭
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;CSS+%26+HTML+Enjoyer;Building+hospital+systems...;ยินดีต้อนรับ+%F0%9F%98%82)](https://git.io/typing-svg)
 
